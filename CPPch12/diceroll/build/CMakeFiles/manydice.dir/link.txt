@@ -1,0 +1,3 @@
+E:\CMake\bin\cmake.exe -E rm -f CMakeFiles\manydice.dir/objects.a
+E:\MSYS2\ucrt64\bin\ar.exe qc CMakeFiles\manydice.dir/objects.a @CMakeFiles\manydice.dir\objects1.rsp
+E:\MSYS2\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\manydice.dir/objects.a -Wl,--no-whole-archive -o manydice.exe -Wl,--out-implib,libmanydice.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\manydice.dir\linkLibs.rsp

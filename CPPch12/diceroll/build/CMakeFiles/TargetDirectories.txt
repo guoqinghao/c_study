@@ -1,0 +1,3 @@
+C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch12/diceroll/build/CMakeFiles/manydice.dir
+C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch12/diceroll/build/CMakeFiles/edit_cache.dir
+C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch12/diceroll/build/CMakeFiles/rebuild_cache.dir

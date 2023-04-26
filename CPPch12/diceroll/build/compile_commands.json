@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch12/diceroll/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/manydice.dir/includes_C.rsp -g -o CMakeFiles\\manydice.dir\\src\\diceroll.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch12\\diceroll\\src\\diceroll.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch12/diceroll/src/diceroll.c",
+  "output": "CMakeFiles/manydice.dir/src/diceroll.c.obj"
+},
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch12/diceroll/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/manydice.dir/includes_C.rsp -g -o CMakeFiles\\manydice.dir\\manydice.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch12\\diceroll\\manydice.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch12/diceroll/manydice.c",
+  "output": "CMakeFiles/manydice.dir/manydice.c.obj"
+}
+]
