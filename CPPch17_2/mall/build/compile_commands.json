@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch17/mall/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/mall.dir/includes_C.rsp -g -o CMakeFiles\\mall.dir\\src\\queue.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch17\\mall\\src\\queue.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch17/mall/src/queue.c",
+  "output": "CMakeFiles/mall.dir/src/queue.c.obj"
+},
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch17/mall/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/mall.dir/includes_C.rsp -g -o CMakeFiles\\mall.dir\\mall.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch17\\mall\\mall.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch17/mall/mall.c",
+  "output": "CMakeFiles/mall.dir/mall.c.obj"
+}
+]

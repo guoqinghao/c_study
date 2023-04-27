@@ -1,0 +1,3 @@
+E:\CMake\bin\cmake.exe -E rm -f CMakeFiles\use_q.dir/objects.a
+E:\MSYS2\ucrt64\bin\ar.exe qc CMakeFiles\use_q.dir/objects.a @CMakeFiles\use_q.dir\objects1.rsp
+E:\MSYS2\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\use_q.dir/objects.a -Wl,--no-whole-archive -o use_q.exe -Wl,--out-implib,libuse_q.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\use_q.dir\linkLibs.rsp
