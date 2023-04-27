@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch17/doubincl/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/films3.dir/includes_C.rsp -g -o CMakeFiles\\films3.dir\\src\\list.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch17\\doubincl\\src\\list.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch17/doubincl/src/list.c",
+  "output": "CMakeFiles/films3.dir/src/list.c.obj"
+},
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch17/doubincl/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/films3.dir/includes_C.rsp -g -o CMakeFiles\\films3.dir\\films3.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch17\\doubincl\\films3.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch17/doubincl/films3.c",
+  "output": "CMakeFiles/films3.dir/films3.c.obj"
+}
+]
