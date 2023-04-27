@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.sourceDirectory": "${workspaceFolder}/CPPch16/useheader",
+    "files.associations": {
+        "cmath": "c"
+    },
+}
