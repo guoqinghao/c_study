@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch16/useheader/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/useheader.dir/includes_C.rsp -g -o CMakeFiles\\useheader.dir\\src\\name_st.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch16\\useheader\\src\\name_st.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch16/useheader/src/name_st.c",
+  "output": "CMakeFiles/useheader.dir/src/name_st.c.obj"
+},
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch16/useheader/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/useheader.dir/includes_C.rsp -g -o CMakeFiles\\useheader.dir\\useheader.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch16\\useheader\\useheader.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch16/useheader/useheader.c",
+  "output": "CMakeFiles/useheader.dir/useheader.c.obj"
+}
+]

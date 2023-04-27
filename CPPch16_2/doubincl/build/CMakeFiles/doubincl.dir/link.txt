@@ -1,0 +1,3 @@
+E:\CMake\bin\cmake.exe -E rm -f CMakeFiles\doubincl.dir/objects.a
+E:\MSYS2\ucrt64\bin\ar.exe qc CMakeFiles\doubincl.dir/objects.a @CMakeFiles\doubincl.dir\objects1.rsp
+E:\MSYS2\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\doubincl.dir/objects.a -Wl,--no-whole-archive -o doubincl.exe -Wl,--out-implib,libdoubincl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\doubincl.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+E:\CMake\bin\cmake.exe -E rm -f CMakeFiles\useheader.dir/objects.a
+E:\MSYS2\ucrt64\bin\ar.exe qc CMakeFiles\useheader.dir/objects.a @CMakeFiles\useheader.dir\objects1.rsp
+E:\MSYS2\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\useheader.dir/objects.a -Wl,--no-whole-archive -o useheader.exe -Wl,--out-implib,libuseheader.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\useheader.dir\linkLibs.rsp

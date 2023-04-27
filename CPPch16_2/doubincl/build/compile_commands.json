@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch16/doubincl/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/doubincl.dir/includes_C.rsp -g -o CMakeFiles\\doubincl.dir\\doubincl.c.obj -c \"C:\\Users\\Hao Guoqing\\Desktop\\VS_PJ\\CPPch16\\doubincl\\doubincl.c\"",
+  "file": "C:/Users/Hao Guoqing/Desktop/VS_PJ/CPPch16/doubincl/doubincl.c",
+  "output": "CMakeFiles/doubincl.dir/doubincl.c.obj"
+}
+]
